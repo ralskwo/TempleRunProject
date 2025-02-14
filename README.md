@@ -1,6 +1,8 @@
-#🏃 Temple Run 스타일 3D 러너 게임
+# 🏃 Temple Run 스타일 3D 러너 게임
 
 ![Game Screenshot](./screenshot1.png)
+![Game Screenshot](./screenshot2.png)
+![Game Screenshot](./screenshot3.png)
 
 > Temple Run 스타일의 무한 러너 게임
 
@@ -55,4 +57,4 @@
 ## **🔗 링크**
 
 📌 **GitHub Repository**: [링크](https://github.com/ralskwo/TempleRunProject)  
-📌 **플레이 영상**: ![Gameplay Video](./Temple Run.mp4)
+📌 **플레이 영상**: ![Gameplay Video](./Temple_Run.mp4)
