@@ -57,4 +57,4 @@
 ## **🔗 링크**
 
 📌 **GitHub Repository**: [링크](https://github.com/ralskwo/TempleRunProject)  
-📌 **플레이 영상**: ![Gameplay Video](./Temple_Run.mp4)
+📌 **[게임 플레이](https://mayquartet.com/my_htmls/Temple_Run/index.html)**
